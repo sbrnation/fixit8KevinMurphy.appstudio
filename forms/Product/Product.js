@@ -1,4 +1,4 @@
-//question 5: Option B
+//question 5: Option B: calculated product of the name
 let num = [123, 433, 54326, 2234, 1919, 1123, 1928, 3374, 23, 190, 33874]
 let product = 1
 
